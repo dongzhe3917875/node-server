@@ -7,3 +7,4 @@ http.createServer(function(request, response) {
     response.end();
 }).listen(8000); // 监听端口号
 console.log("this is after;nodejs start listen 8100 port!");
+console.log('lalalal')
