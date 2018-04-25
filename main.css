@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+h1 {
+    position: relative;
+    letter-spacing: .07em;
+    font-size: 5em;
+    font-weight: normal;
+    margin: 0 auto;
+  font-family: cursive;
+    text-shadow: 6px 2px 2px #eee;
+    color: rgba(0,0,0,0.2);
+    background: linear-gradient(60deg, red, yellow, green, blue, purple);
+    display: inline-block;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
